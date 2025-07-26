@@ -1,6 +1,6 @@
 ## Hey!
 
-I'm a computer science student, mostly dealing with data science related things. Currently learning front-end and mobile development.
+I mostly deal with data analysis and web development.
 
 <!--
 **Falachi/Falachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
